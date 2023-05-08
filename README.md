@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cloud Projects:</h2>
 
 - <b>AWS Projects </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Terraform Projects</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Certifications</b>
   - [AWS Solutions Architect Associate](https://github.com/joshmadakor1/Sentinel-Lab)
   - [
@@ -22,8 +22,8 @@
 
 
 
-[linkedin]:www.linkedin.com/in/
-natasha-stephens-50663018b
+[linkedin]:https://www.linkedin.com/in/natasha-stephens-50663018b
+
 
 
 
