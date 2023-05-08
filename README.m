@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- <b>AWS Projects </b>
+- <b>AWS Project </b>
   - [](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Terraform Projects</b>
   - [](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
