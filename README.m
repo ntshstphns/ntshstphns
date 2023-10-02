@@ -9,7 +9,7 @@
 - <b>Certifications</b>
   - [AWS Solutions Architect Associate, Secruity+](https://github.com/ntshstphns/Sentinel-Lab)
   - [
-  Terraform Associate](https://github.com/ntshstphns/Jwipe.PowerShell)
+  (https://github.com/ntshstphns/Jwipe.PowerShell)
   - [Cisco Certified Technician](https://github.com/ntshstphns/AD_PS)
   - 
 - <b>
