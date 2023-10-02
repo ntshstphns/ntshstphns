@@ -7,7 +7,7 @@
 - <b>Terraform Projects</b>
   - [](https://github.com/ntshstphns/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Certifications</b>
-  - [AWS Solutions Architect Associate](https://github.com/ntshstphns/Sentinel-Lab)
+  - [AWS Solutions Architect Associate, Secruity+](https://github.com/ntshstphns/Sentinel-Lab)
   - [
   Terraform Associate](https://github.com/ntshstphns/Jwipe.PowerShell)
   - [Cisco Certified Technician](https://github.com/ntshstphns/AD_PS)
