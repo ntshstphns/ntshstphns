@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
-- <b>AWS Projects </b>
+- <b2>AWS Projects </b>
   - [](https://github.com/ntshstphns/Algorithms-Practice)
-- <b>Terraform Projects</b>
+- <b2>Terraform Projects</b>
   - [](https://github.com/ntshstphns/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b2>Certifications</b>
   - [AWS Solutions Architect Associate, Secruity+](https://github.com/ntshstphns/Sentinel-Lab)
