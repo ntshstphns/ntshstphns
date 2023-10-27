@@ -6,7 +6,7 @@
   - [](https://github.com/ntshstphns/Algorithms-Practice)
 - <b>Terraform Projects</b>
   - [](https://github.com/ntshstphns/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Certifications</b>
+- <b2>Certifications</b>
   - [AWS Solutions Architect Associate, Secruity+](https://github.com/ntshstphns/Sentinel-Lab)
   - [
   (https://github.com/ntshstphns/Jwipe.PowerShell)
@@ -33,7 +33,6 @@ natasha-stephens-50663018b
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
